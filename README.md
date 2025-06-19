@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siphumelele-Ndlovu
 - 👀 I’m interested in HTML, CSS and Javascript.
 - 🌱 I’m currently learning coding with FNB Academy
-- 💞️ I’m looking to collaborate on bigger projects that inspire to get better in coding
+- 💞️ I’m looking to collaborate on bigger projects that inspire and expose me to greater possibilities.
 - 📫 How to reach me siphumelelendlovu5@gmail.com
 - 😄 Pronouns: She 
 - ⚡ Fun fact: I love travelling
